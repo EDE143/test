@@ -22,3 +22,6 @@ Das gibts nur im Branch.
 
 
 
+# Branch 2
+
+Das gibts nur im Branch 2.
