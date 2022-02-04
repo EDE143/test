@@ -18,7 +18,7 @@ Das hier trennt Hunks, vermutlich.
 
 # Push 3
 
-Im Branch 2 geändert.
+Im Branch 2 geändert. Mergeerror.
 
 
 
