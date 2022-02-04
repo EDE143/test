@@ -18,7 +18,6 @@ Das hier trennt Hunks, vermutlich.
 
 # Push 3
 
-Das gibts nur im Branch.
-Weiterer Commit in Branch1.
+Das gibts nur im Branch. Weiterer Commit in Branch1.
 
 
